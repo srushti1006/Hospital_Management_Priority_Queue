@@ -1,10 +1,10 @@
 # Hospital_Management_Priority_Queue
 
-Problem
+-Problem
 In Hospital it is very important to treat people according to priority. 
 For example people with accidents should be treated urgently so they are added in serious illness. 
 
-Solution
+-Solution
 This project is developed in C language. It is implemented using Priority Queue Data Structure
 It is a menu Driven program where user gets to select options like adding patients data, treating patient, display the current patient, display all the patients.
 There are 3 queues used for priority.
