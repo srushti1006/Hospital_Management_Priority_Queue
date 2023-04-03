@@ -16,7 +16,9 @@ Once a patient is added they are queued and once they are treated they are Deque
 header.h contains Declarations of all the functions used.
 main.cpp is used to take input from user and give output
 Other functions are separately written in other cpp files.
-<br>
+
+
+
 **File names are .cpp but the code is in C language
 
 
