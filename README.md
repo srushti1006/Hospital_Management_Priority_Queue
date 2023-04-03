@@ -20,4 +20,4 @@ Other functions are separately written i other cpp files.
 
 
 <h2>Demonstration of Project</h2>
-<h2 align="center"><img src="https://github.com/srushti1006/Hospital_Management_Priority_Queue/blob/main/PriorityQueueDemo.mp4"></h2>
+https://github.com/srushti1006/Hospital_Management_Priority_Queue/blob/main/PriorityQueueDemo.mp4
